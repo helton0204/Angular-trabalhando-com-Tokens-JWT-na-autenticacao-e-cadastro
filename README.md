@@ -1,5 +1,3 @@
-![Jornada Milhas](thumbnail.png)
-
 # Jornada Milhas
 
 O Jornada Milhas é uma StartUP. 
